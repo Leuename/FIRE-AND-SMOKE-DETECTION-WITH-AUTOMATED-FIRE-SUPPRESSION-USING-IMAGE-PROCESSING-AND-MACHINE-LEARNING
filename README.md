@@ -1,5 +1,12 @@
 # Fire and Smoke Detection with Automated Fire Suppression
 
+<p align="center">
+  <img width="284" height="207" alt="Fire suppression prototype image 1" src="https://github.com/user-attachments/assets/dc90c2d6-4075-48e1-b61f-c53a3a32698d" />
+  <img width="233" height="299" alt="Fire suppression prototype image 2" src="https://github.com/user-attachments/assets/caf49a6b-ae2a-4da6-8e14-5b6aa6ddd13e" />
+  <img width="299" height="247" alt="Fire suppression prototype image 3" src="https://github.com/user-attachments/assets/da64bb2b-98a9-44d3-b03b-54b3775ebdc7" />
+  <img width="217" height="384" alt="Fire suppression prototype image 4" src="https://github.com/user-attachments/assets/1e90d8de-8241-4fa4-888c-7b74a4e6fcfa" />
+</p>
+
 Real-time **fire/smoke detection + automated suppression** prototype that combines:
 
 - **ML vision detection** (YOLO on an RTSP/IP camera feed) for early fire recognition
